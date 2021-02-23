@@ -1,0 +1,7 @@
+.card-columns {
+    column-count: 4;
+}
+p, h5 {
+    color: gray;
+    text-align: center;
+}
